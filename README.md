@@ -1,0 +1,2 @@
+# Computer-Vision
+Used “Matplotlib”, “pandas”, and “numpy” to analyze the data and preprocessing, then used “tensorflow” to build several models, and test their accuracy (dense layers only | convolutional layers, flatten layer and dense layers | convolutional layers with max-pooling, a flatten layer, and dense layers | and then did some regularization adding drop out layer to achieve accuracy close to 80% on the test set)
